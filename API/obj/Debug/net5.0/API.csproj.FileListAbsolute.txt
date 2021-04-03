@@ -55,3 +55,10 @@ C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Humanizer.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
