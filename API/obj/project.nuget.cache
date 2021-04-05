@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qbYdJWpGasAFf6icEMaWdfKT/foxWXmA8Ue68kIHuzu1E1ot/XnOKOkH0YHDkGm9s0/RLxMMV+TDrM4shBdzHQ==",
+  "dgSpecHash": "Jql3fJcT29QRBpMY2k24KetAgSEsA9kEmVx5YtlWh3/zWwG3JCoW+MUfR51e0H8Idf8+h1gZe0E0r/lZ5sPp5Q==",
   "success": true,
-  "projectFilePath": "C:\\__git\\Cursos\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\__git\\Cursos\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Roberto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Roberto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -46,6 +48,7 @@
     "C:\\Users\\Roberto\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Roberto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []

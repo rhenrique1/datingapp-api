@@ -62,3 +62,6 @@ C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.d
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.json
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
