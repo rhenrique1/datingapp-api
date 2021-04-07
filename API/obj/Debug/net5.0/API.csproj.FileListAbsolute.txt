@@ -65,3 +65,6 @@ C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.json
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
