@@ -68,3 +68,8 @@ C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.D
 C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
 C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
 C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
