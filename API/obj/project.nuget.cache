@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b87/S4bVybietPOJW+CUNZ8+1UuFuZX0Ytieg3uSi9pBU46lDu9LHAyJWlfM6bkKVO1iDoor967tGHZhzKlRgA==",
+  "dgSpecHash": "Sj/9Mv2sLT4AtjMznBkd6HogAqhRKLOfJWYgtUqo933U/uItERmMNM4TLWhck0vy9CICrwkKk3higT9vlIB/zg==",
   "success": true,
   "projectFilePath": "C:\\__git\\Cursos\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -61,7 +61,8 @@
     "C:\\Users\\Roberto\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
-    "C:\\Users\\Roberto\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\Roberto\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Roberto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }

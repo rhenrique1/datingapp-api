@@ -11,7 +11,6 @@ C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\__git\Cursos\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
@@ -19,7 +18,6 @@ C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cach
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
-C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
 C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
@@ -73,3 +71,4 @@ C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\__git\Cursos\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\__git\Cursos\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
